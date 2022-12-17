@@ -1,8 +1,8 @@
-## This is a public release of my education material from the University of Illinois at Urbana-Champaign.
+## This is a public release of my education material from the University of Illinois at Urbana-Champaign, from 2021 to 2023.
 
-## All homeworks and assignments have been hidden, aside from the ones written entirely by me.
+## All homeworks and assignments not 100% written by me have been hidden for academic integrity.
 
-## Feel free to contact me at [guidrezza@gmail.com](mailto:guidrezza@gmail.com) for information on specific code I wrote for any of these classes.
+# Feel free to contact me at [guidrezza@gmail.com](mailto:guidrezza@gmail.com) to see any of the code I wrote for these classes!
 
 #### Separated by classes.
 
